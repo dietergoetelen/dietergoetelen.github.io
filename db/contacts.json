@@ -2,6 +2,18 @@
     "contacts": [
         {
             "name": "John Doe"
+        },
+        {
+            "name": "Jeff Hanks"   
+        },
+        {
+            "name": "Tom Whispler"   
+        },
+        {
+            "name": "John Hi"   
+        },
+        {
+            "name": "Bradd Thompson"
         }
     ]
 }
