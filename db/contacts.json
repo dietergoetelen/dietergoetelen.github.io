@@ -1,3 +1,7 @@
 {
-    "name": "Dieter Goetelen"
+    "contacts": [
+        {
+            "name": "John Doe"
+        }
+    ]
 }
