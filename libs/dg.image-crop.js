@@ -9,7 +9,7 @@
 
         vm.link = link;
         vm.restrict = 'E';
-        vm.template = '<div><div></div><div style="display: none;"><canvas id="dgCopyCanvas"></canvas></div></div>';
+        vm.template = '<div><div><canvas id="dgCanvas"></canvas></div><div style="display: none;"><canvas id="dgCopyCanvas"></canvas></div></div>';
         vm.replace = true;
         vm.scope = {
             result: '=',
